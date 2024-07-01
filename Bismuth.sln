@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bismuth", "Bismuth.csproj", "{24F55BA1-5F5C-4E89-8C4D-0797F163B11E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24F55BA1-5F5C-4E89-8C4D-0797F163B11E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F55BA1-5F5C-4E89-8C4D-0797F163B11E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F55BA1-5F5C-4E89-8C4D-0797F163B11E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F55BA1-5F5C-4E89-8C4D-0797F163B11E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
