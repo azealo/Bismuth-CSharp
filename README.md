@@ -13,7 +13,7 @@ GTK Mod Manager For Games, written in C#! Replacement For Vortex Mod Manager
 **WARNING!** This project is VERY Work In Progress
 
 
-![Logo](https://raw.githubusercontent.com/azealo/Bismuth/master/Bismuth.png)
+<img src="https://raw.githubusercontent.com/azealo/Bismuth/master/Bismuth.png" alt="drawing" width="200"/>
 
 
 ## Support
