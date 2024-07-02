@@ -13,12 +13,6 @@ GTK Universal Mod Manager For Games, written in C#! Replacement For Vortex Mod M
 
 <img src="https://raw.githubusercontent.com/azealo/Bismuth/master/Bismuth.png" alt="drawing" width="200"/>
 
-
-## Support
-
-For support, email hexcd@tutanota.com or add me in Discord @hexcd
-
-
 ## Roadmap
 
 - Actually make it work
@@ -31,3 +25,6 @@ For support, email hexcd@tutanota.com or add me in Discord @hexcd
 
 - Modrinth & Curseforge Integration
 
+## Support
+
+For support, email hexcd@tutanota.com or add me in Discord @hexcd
